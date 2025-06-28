@@ -17,7 +17,7 @@ A Python-based voice assistant that listens for simple voice commands like *"scr
   - Say *"stop"* to exit the application
 - 🖼️ Screenshots saved automatically with a timestamped filename
 - 🔊 Camera shutter sound played on each capture
-- 👁️ Screenshot preview opens immediately after capture
+-  Screenshot preview opens immediately after capture
 - 🗨️ Real-time voice feedback like "Screenshot taken" using text-to-speech
 - 🎧 Continuous microphone listening without interrupting your workflow
 
